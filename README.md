@@ -1,7 +1,7 @@
 ### - 🌱 I’m currently learning ...
 
 
-
+![py](py.png)
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=kimsehwan96&show_icons=true&theme=dracula)
 
