@@ -8,6 +8,8 @@
 
 - Resume : [Resume](resume.pdf)
 
+- RocketPunch : [Link](https://www.rocketpunch.com/@gimsehwandea99b65d15c49fe)
+
 - Contact : sktpghks138@gmail.com <a href="https://instagram.com/brighten_world_" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="brighten_world_" height="30" width="40" /></a>
 </p>
 
