@@ -19,6 +19,5 @@
 
 ![BOJ](http://mazassumnida.wtf/api/v2/generate_badge?boj=kimsehwan96)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kimsehwan96&label=Profile%20views&color=0e75b6&style=flat" alt="kimsehwan96" /> </p>
 
 
