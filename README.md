@@ -51,12 +51,16 @@ I'm currently learning !
  ## Etc
  `DynamoDB`, `AWS Lambda`, `Serverless framework`, `github action`, `Industrial FieldBus Protocols (Modbus, Profinet, OPC-UA, CC-Link...)`
  
+ ## I contributted to...
+ 
+ <img width="918" alt="스크린샷 2021-03-02 오후 11 35 58" src="https://user-images.githubusercontent.com/59886140/109663996-0d263380-7bb0-11eb-94a2-c8a598a57684.png">
+
+### awslabs & influxdb !
+
+## Info
+ 
 Resume : [Resume](resume.pdf)
 
 RocketPunch : [Link](https://www.rocketpunch.com/@gimsehwandea99b65d15c49fe)
 
 Contact : sktpghks138@gmail.com <a href="https://instagram.com/brighten_world_" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="brighten_world_" height="30" width="40" /></a>
-
-
-
-
