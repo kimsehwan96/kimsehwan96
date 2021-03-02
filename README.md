@@ -4,6 +4,12 @@ I'm an undergraduate student majoring in Embedded System, Electronics Engineerin
 
 Also I've studied software development and computer science since 2020.
 
+## I'm  interested in..
+
+- Devops (CI/CD)
+  - Jenkins
+  - Docker
+  - AWS Cloudformation (with Serverless framework !)
 
 ## Languages
 <p align="left"> 
