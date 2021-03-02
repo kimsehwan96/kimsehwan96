@@ -1,8 +1,6 @@
 # Daniel Kim
 
-## I'm currently learning !
-
-<h3 align="left">Languages and Tools:</h3>
+I'm currently learning !
 
 ## Languages
 <p align="left"> 
