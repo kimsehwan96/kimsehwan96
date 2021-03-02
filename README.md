@@ -51,18 +51,12 @@ I'm currently learning !
  ## Etc
  `DynamoDB`, `AWS Lambda`, `Serverless framework`, `github action`, `Industrial FieldBus Protocols (Modbus, Profinet, OPC-UA, CC-Link...)`
  
-- Resume : [Resume](resume.pdf)
+Resume : [Resume](resume.pdf)
 
-- RocketPunch : [Link](https://www.rocketpunch.com/@gimsehwandea99b65d15c49fe)
+RocketPunch : [Link](https://www.rocketpunch.com/@gimsehwandea99b65d15c49fe)
 
-- Contact : sktpghks138@gmail.com <a href="https://instagram.com/brighten_world_" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="brighten_world_" height="30" width="40" /></a>
-</p>
+Contact : sktpghks138@gmail.com <a href="https://instagram.com/brighten_world_" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="brighten_world_" height="30" width="40" /></a>
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=kimsehwan96&show_icons=true&theme=dracula)
-
-![Github TopLanguage](https://github-readme-stats.vercel.app/api/top-langs/?username=kimsehwan96&layout=compact&theme=dracula)
-
-![BOJ](http://mazassumnida.wtf/api/v2/generate_badge?boj=kimsehwan96)
 
 
 
