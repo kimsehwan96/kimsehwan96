@@ -1,6 +1,8 @@
 # Daniel Kim
 
-I'm currently learning !
+I'm an undergraduate student majoring in Embedded System, Electronics Engineering Department in Korea Polytechnic University (한국산업기술대학교)
+Also I've studied software development and computerscience since 2020.
+
 
 ## Languages
 <p align="left"> 
