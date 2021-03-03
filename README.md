@@ -60,9 +60,9 @@ Also I've studied software development and computer science since 2020.
  ## Etc
  `DynamoDB`, `AWS Lambda`, `Serverless framework`, `github action`, `Industrial FieldBus Protocols (Modbus, Profinet, OPC-UA, CC-Link...)`
  
- ## I contributted to...
+ ## I contributed to...
  
- <img width="918" alt="스크린샷 2021-03-02 오후 11 35 58" src="https://user-images.githubusercontent.com/59886140/109663996-0d263380-7bb0-11eb-94a2-c8a598a57684.png">
+ <img width="918" alt="스크린샷 2021-03-02 오후 11 35 58" src="https://user-images.githubusercontent.com/59886140/109663996-0d263380-7bb0-11eb-94a2-c8a598a57684.png">
 
 ### influxdata & awslabs !
 
