@@ -11,7 +11,7 @@ Also I've studied software development and computer science since 2020.
   - Docker
   - AWS Cloudformation (with Serverless framework !)
 
-I feel happy when provisioning infra to cloud by IAC coding(Infrastructure As Code) with cloud formation or serverless framework !!
+I'm happy when provisioning infra to cloud by IAC coding(Infrastructure As Code) with cloud formation or serverless framework !!
 
 ## Languages
 <p align="left"> 
