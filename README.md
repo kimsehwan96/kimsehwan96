@@ -4,12 +4,20 @@ I'm an undergraduate student majoring in Embedded System, Electronics Engineerin
 
 Also I've studied software development and computer science since 2020.
 
+Although I have no deep knowledge about CS, OS, Design Pattern, OOP, I study those every day without any doubt.
+
+I'm especially good at designing software architecture with various knowledge - network, ubuntu, raspberry pi, aws infra - that I've ever experienced.
+
 ## I'm  interested in..
 
 - Devops (CI/CD)
   - Jenkins
   - Docker
   - AWS Cloudformation (with Serverless framework !)
+
+- Architecture
+ - MSA (Micro Service Architecture) with AWS Lambda
+
 
 It makes me feel happy that provisioning infra to cloud by IAC coding(Infrastructure As Code) with cloud formation or serverless framework !!
 
