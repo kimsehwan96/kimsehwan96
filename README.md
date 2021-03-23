@@ -8,7 +8,7 @@ Although I have no deep knowledge about CS, OS, Design Pattern, OOP, I study tho
 
 I'm especially good at designing software architecture with various knowledge - network, ubuntu, raspberry pi, aws infra - that I've ever experienced.
 
-Many developers build opensources together wherever they are. I love to doing that too.
+Many developers build opensources together wherever they are. I love doing that too.
 
 ## I'm  interested in..
 
