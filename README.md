@@ -65,7 +65,7 @@ It makes me feel happy that provisioning infra to cloud by IAC coding(Infrastruc
 <a href="https://www.jenkins.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="100" height="100"/>
   <a href="https://www.serverless.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/serverless/serverless-ar21.svg" alt="serverless" width="200" height="100"/>
     <a href="https://aws.amazon.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/amazon_cloudformation/amazon_cloudformation-ar21.svg" alt="cloudformation" width="200" height="100"/>
-     <a href="https://www.ubuntu.com" target="_blank"> <img src= "https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-original-wordmark.svg" alt="Ubuntu" width="200" height="100"/<a href="https://aws.amazon.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/amazon_awslambda/amazon_awslambda-ar21.svg" alt="aws lambda" width="200" height="100"/>
+     <a href="https://www.ubuntu.com" target="_blank"> <img src= "https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain-wordmark.svg" alt="Ubuntu" width="200" height="100"/<a href="https://aws.amazon.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/amazon_awslambda/amazon_awslambda-ar21.svg" alt="aws lambda" width="200" height="100"/>
   </p>
   
 ## Tools
