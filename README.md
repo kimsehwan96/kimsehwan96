@@ -22,6 +22,9 @@ Many developers build opensources together wherever they are. I love doing that 
 
 - Opensource 
 
+- Industrial iot
+ - Smart factory (MES, ERP)
+
 
 It makes me feel happy that provisioning infra to cloud by IAC coding(Infrastructure As Code) with cloud formation or serverless framework !!
 
