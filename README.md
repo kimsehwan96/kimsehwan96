@@ -20,7 +20,13 @@ Many developers build opensources together wherever they are. I love doing that 
 - Architecture
  - MSA (Micro Service Architecture) with AWS Lambda
 
-- Opensource 
+- Datalake
+ - delta
+ - spark
+  
+- Opensource Stacks
+ - elk
+ - kafka
 
 - Industrial iot
  - Smart factory (MES, ERP)
