@@ -18,18 +18,18 @@ Many developers build opensources together wherever they are. I love doing that 
   - AWS Cloudformation (with Serverless framework !)
 
 - Architecture
- - MSA (Micro Service Architecture) with AWS Lambda
+  - MSA (Micro Service Architecture) with AWS Lambda
 
 - Datalake
- - delta
- - spark
+  - delta
+  - spark
   
 - Opensource Stacks
- - elk
- - kafka
+  - elk
+  - kafka
 
 - Industrial iot
- - Smart factory (MES, ERP)
+  - Smart factory (MES, ERP)
 
 
 It makes me feel happy that provisioning infra to cloud by IAC coding(Infrastructure As Code) with cloud formation or serverless framework !!
