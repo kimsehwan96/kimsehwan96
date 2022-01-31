@@ -1,6 +1,6 @@
 # Daniel Kim
 
-Linkedin : [Link](https://www.linkedin.com/)
+Linkedin : [Link](https://www.linkedin.com/in/sehwan-kim-a31543202)
 
 ## I'm...
 
@@ -110,7 +110,7 @@ It makes me feel happy that provisioning infra to cloud by IAC coding(Infrastruc
 
 ## Info
  
-Linkedin : [Link](https://www.linkedin.com/)
+Linkedin : [Link](https://www.linkedin.com/in/sehwan-kim-a31543202)
 
 Contact : sktpghks138@gmail.com <a href="https://instagram.com/brighten_world_" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="brighten_world_" height="30" width="40" /></a>
 
