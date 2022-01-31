@@ -16,17 +16,19 @@ Many developers build opensources together wherever they are. I love doing that 
   - Jenkins
   - Docker
   - AWS Cloudformation (with Serverless framework !)
+  - Kubernetes (in progress)
+  - Istio (in progress)
 
 - Architecture
   - MSA (Micro Service Architecture) with AWS Lambda
 
 - Datalake
-  - delta
-  - spark
+  - delta (in progress)
+  - spark (in progress)
   
 - Opensource Stacks
-  - elk
-  - kafka
+  - elk (in progress)
+  - kafka (in progress)
 
 - Industrial iot
   - Smart factory (MES, ERP)
