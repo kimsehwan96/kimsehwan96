@@ -4,7 +4,7 @@ Linkedin : [Link](https://www.linkedin.com/in/sehwan-kim-a31543202)
 
 ## I'm...
 
-An undergraduate student majoring in Embedded System, Electronics Engineering Department in Korea Polytechnic University (한국산업기술대학교)
+An undergraduate student majoring in Embedded System, Electronics Engineering Department in Tech University Of Korea (한국공학대학교)
 
 A junior software developer with 2 years of experience develope and maintain software platform(AWS, Cloudformation, Serverless framwork) and edge computer's process that collecting industrial data from PLCs, Controllers. + Devops(Jenkins, Github Action, Docker)
 
