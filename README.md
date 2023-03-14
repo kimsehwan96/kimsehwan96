@@ -6,10 +6,9 @@ Linkedin : [Link](https://www.linkedin.com/in/sehwan-kim-a31543202)
 
 ## I'm...
 
-An graduated student majoring in Embedded System, Electronics Engineering Department in Tech University Of Korea (한국공학대학교)
+A graduated student majoring in Embedded System, Electronics Engineering Department in Tech University Of Korea (한국공학대학교)
 
 A junior software developer with 3 years of experience develope and maintain software platform(AWS, Cloudformation, Serverless framwork) and edge computer's process that collecting industrial data from PLCs, Controllers. + Devops(Jenkins, Github Action, Docker)
-
 
 ## I'm  interested in..
 
@@ -30,9 +29,6 @@ A junior software developer with 3 years of experience develope and maintain sof
 
 - Industrial iot
   - Smart factory (MES, ERP)
-
-
-It makes me feel happy that provisioning infra to cloud by IAC coding(Infrastructure As Code) with cloud formation or serverless framework !!
 
 ## Languages
 <p align="left"> 
@@ -97,9 +93,6 @@ It makes me feel happy that provisioning infra to cloud by IAC coding(Infrastruc
  
   
   </p>
- 
- ## Etc
- `DynamoDB`, `AWS Lambda`, `Serverless framework`, `github action`, `Industrial FieldBus Protocols (Modbus, Profinet, OPC-UA, CC-Link...)`
  
  ## I contributed to...
 
