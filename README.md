@@ -8,7 +8,7 @@ Linkedin : [Link](https://www.linkedin.com/in/sehwan-kim-a31543202)
 
 A graduated student majoring in Embedded System, Electronics Engineering Department in Tech University Of Korea (한국공학대학교)
 
-A junior software developer with 3 years of experience develope and maintain software platform(AWS, Cloudformation, Serverless framwork) and edge computer's process that collecting industrial data from PLCs, Controllers. + Devops(Jenkins, Github Action, Docker)
+A junior software developer with 3 years of experience developing and maintaining software platform(AWS, Cloudformation, Serverless framwork) and edge computer's process that collecting industrial data from PLCs, Controllers. + Devops(Jenkins, Github Action, Docker)
 
 ## I'm  interested in..
 
@@ -18,6 +18,8 @@ A junior software developer with 3 years of experience develope and maintain sof
   - AWS Cloudformation (with Serverless framework !)
   - Kubernetes (in progress)
   - Istio (in progress)
+  - Keycloak
+  - Vault
 
 - Architecture
   - MSA (Micro Service Architecture) with service mesh (istio) in kubernetes environment.
