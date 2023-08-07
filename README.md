@@ -10,6 +10,8 @@ A graduated student majoring in Embedded System, Electronics Engineering Departm
 
 A junior software developer with 3 years of experience developing and maintaining software platform(AWS, Cloudformation, Serverless framwork) and edge computer's process that collecting industrial data from PLCs, Controllers. + Devops(Jenkins, Github Action, Docker)
 
+(Now) I'm in charge of DevSecOps Software Engineer at Lendit.
+
 ## I'm  interested in..
 
 - Devops (CI/CD)
@@ -113,6 +115,6 @@ Contact : sktpghks138@gmail.com
 
 If you want to collaborate any kind of project with me, please contact me with below email.
 
-sehwan.kim@ingkle.com
+sktpghks138@gmail.com
 
 Thank you.
