@@ -18,21 +18,17 @@ A junior software developer with 3 years of experience developing and maintainin
   - Jenkins
   - Docker
   - AWS Cloudformation (with Serverless framework !)
-  - Kubernetes (in progress)
-  - Istio (in progress)
+  - Kubernetes
+  - Istio
   - Keycloak
   - Vault
+  - ArgoCD
+  - Keel
+  - Terraform
 
 - Architecture
   - MSA (Micro Service Architecture) with service mesh (istio) in kubernetes environment.
 
-
-- Opensource Stacks
-  - elk (in progress)
-  - kafka (in progress)
-
-- Industrial iot
-  - Smart factory (MES, ERP)
 
 ## Languages
 <p align="left"> 
