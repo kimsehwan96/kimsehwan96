@@ -4,6 +4,14 @@ Linkedin : [Link](https://www.linkedin.com/in/sehwan-kim-a31543202)
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkimsehwan96%2Fkimsehwan96&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%2323F63C&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)
 
+## Stats..
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kimsehwan96&layout=compact)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=kimsehwan96&show_icons=true)
+
+
+
 ## I'm...
 
 A graduated student majoring in Embedded System, Electronics Engineering Department in Tech University Of Korea (한국공학대학교)
