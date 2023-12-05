@@ -6,7 +6,7 @@ Linkedin : [Link](https://www.linkedin.com/in/sehwan-kim-a31543202)
 
 ## Stats..
 
-![Top Langs](https://vercel-deploy-kimsehwan96.vercel.app/api/top-langs/?username=kimsehwan96&layout=compact&langs_count=10)
+![Top Langs](https://vercel-deploy-kimsehwan96.vercel.app/api/top-langs/?username=kimsehwan96&layout=compact&langs_count=3)
 
 ![GitHub stats](https://vercel-deploy-kimsehwan96.vercel.app/api?username=kimsehwan96&show_icons=true&show=reviews,prs_merged,prs_merged_percentage)
 
