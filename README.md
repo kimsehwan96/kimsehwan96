@@ -16,26 +16,27 @@ Linkedin : [Link](https://www.linkedin.com/in/sehwan-kim-a31543202)
 
 A graduated student majoring in Embedded System, Electronics Engineering Department in Tech University Of Korea (한국공학대학교)
 
-A junior software developer with 3 years of experience developing and maintaining software platform(AWS, Cloudformation, Serverless framwork) and edge computer's process that collecting industrial data from PLCs, Controllers. + Devops(Jenkins, Github Action, Docker)
+A junior software developer about 4 years of experience as backend software engineer, devops engineer
 
 (Now) I'm in charge of DevSecOps Software Engineer at Lendit.
 
+I love `open source`.
+
 ## I'm  interested in..
 
-- Devops (CI/CD)
-  - Jenkins
-  - Docker
-  - AWS Cloudformation (with Serverless framework !)
+- Devops
+  - CI/CD Pipelines (Github action, Jenkins, ArgoCD etcs..)
   - Kubernetes
-  - Istio
-  - Keycloak
-  - Vault
-  - ArgoCD
-  - Keel
-  - Terraform
+  - Infrastructure
+  - IaC
+  - Devloping internal tools for developers
+  - Observability
+  - Service mesh
 
 - Architecture
   - MSA (Micro Service Architecture) with service mesh (istio) in kubernetes environment.
+  - DDD (Domain Driven Design)
+
 
 
 ## Languages
@@ -59,7 +60,6 @@ A junior software developer with 3 years of experience developing and maintainin
 
 <p align="left"> 
     <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="100" height="100"/> </a>
-    <a href="https://www.djangoproject.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="django" width="100" height="100"/> </a> 
     <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="100" height="100"/> </a> 
     <a href="https://flask.palletsprojects.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="100" height="100"/> </a> 
   <a href="https://graphql.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="100" height="100"/> </a> 
@@ -108,6 +108,9 @@ A junior software developer with 3 years of experience developing and maintainin
  - awslabs/aws-greengrass-provisioner
  - influxdata/docs-v2
  - jenkinsci/jenkins
+ - hashicorp/vault
+ - kubernetes-sigs/kubespray
+ - kubernetes/minikube
 
 ## Info
  
