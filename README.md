@@ -18,7 +18,7 @@ A graduated student majoring in Embedded System, Electronics Engineering Departm
 
 A junior software developer about 4 years of experience as backend software engineer, devops engineer
 
-(Now) I'm in charge of DevSecOps Software Engineer at Lendit.
+(Now) I'm in charge of Site Reliability Engineer in Nrise
 
 I love `open source`.
 
